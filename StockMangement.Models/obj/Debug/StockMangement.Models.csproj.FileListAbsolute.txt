@@ -1,0 +1,12 @@
+c:\users\bcc\documents\visual studio 2015\Projects\StockManagementApp\StockMangement.Models\bin\Debug\StockMangement.Models.dll.config
+c:\users\bcc\documents\visual studio 2015\Projects\StockManagementApp\StockMangement.Models\bin\Debug\StockMangement.Models.dll
+c:\users\bcc\documents\visual studio 2015\Projects\StockManagementApp\StockMangement.Models\bin\Debug\StockMangement.Models.pdb
+c:\users\bcc\documents\visual studio 2015\Projects\StockManagementApp\StockMangement.Models\bin\Debug\EntityFramework.dll
+c:\users\bcc\documents\visual studio 2015\Projects\StockManagementApp\StockMangement.Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bcc\documents\visual studio 2015\Projects\StockManagementApp\StockMangement.Models\bin\Debug\EntityFramework.xml
+c:\users\bcc\documents\visual studio 2015\Projects\StockManagementApp\StockMangement.Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bcc\documents\visual studio 2015\Projects\StockManagementApp\StockMangement.Models\obj\Debug\StockMangement.Models.csprojResolveAssemblyReference.cache
+c:\users\bcc\documents\visual studio 2015\Projects\StockManagementApp\StockMangement.Models\obj\Debug\StockMangement.Models.dll
+c:\users\bcc\documents\visual studio 2015\Projects\StockManagementApp\StockMangement.Models\obj\Debug\StockMangement.Models.pdb
+c:\users\bcc\documents\visual studio 2015\Projects\StockManagementApp\StockMangement.Models\obj\Debug\StockMangement.Models.Migrations.Initial.resources
+c:\users\bcc\documents\visual studio 2015\Projects\StockManagementApp\StockMangement.Models\obj\Debug\StockMangement.Models.csproj.GenerateResource.Cache
