@@ -35,3 +35,47 @@ c:\users\bcc\documents\visual studio 2015\Projects\StockManagementApp\StockManag
 c:\users\bcc\documents\visual studio 2015\Projects\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csprojResolveAssemblyReference.cache
 c:\users\bcc\documents\visual studio 2015\Projects\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.dll
 c:\users\bcc\documents\visual studio 2015\Projects\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.pdb
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\roslyn\csc.exe
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\roslyn\System.Collections.Immutable.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\roslyn\vbc.exe
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\roslyn\VBCSCompiler.exe
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\roslyn\VBCSCompiler.exe.config
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\StockManagementApp.dll.config
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\StockManagementApp.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\StockManagementApp.pdb
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\Microsoft.Web.Infrastructure.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\StockMangement.Models.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\System.Web.Helpers.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\System.Web.Mvc.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\System.Web.Razor.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\System.Web.Webpages.Deployment.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\System.Web.Webpages.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\System.Web.Webpages.Razor.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\EntityFramework.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\StockMangement.Models.pdb
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\System.Web.Razor.xml
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\System.Web.Webpages.xml
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\System.Web.Webpages.Deployment.xml
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\System.Web.Webpages.Razor.xml
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\System.Web.Helpers.xml
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\System.Web.Mvc.xml
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\EntityFramework.xml
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.csprojResolveAssemblyReference.cache
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\obj\Debug\StockManagementApp.pdb
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\Antlr3.Runtime.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\Newtonsoft.Json.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\System.Web.Optimization.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\WebGrease.dll
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\Antlr3.Runtime.pdb
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\Newtonsoft.Json.xml
+E:\Web Application In C#\StockManagementApp\StockManagementApp\StockManagementApp\bin\System.Web.Optimization.xml

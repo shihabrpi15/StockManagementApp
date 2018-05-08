@@ -1,8 +1,50 @@
-﻿
+﻿@using System.Web.UI.WebControls
+
 @{
     ViewBag.Title = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>Index</h2>
+<div id="main-edit-box">
+    <h2>Index</h2>
+    <button id="hide">Hide Me</button>
+    <button id="show">show me</button>
+    <button id="toggle">toggle</button>
+    <hr>
+    <h4>Hi, this is a global hot rising pragraph in below</h4>
+    <p>My name is Anis Hossain Mulla Akhon then for nothin but is alocation. I am the best of like has important for every section and my name is the best capacity of holy day and my birtd day is seven oct 1992 and my village is Guabaria</p>
+    
+</div>
 
+
+
+
+
+
+
+
+@section Scripts{
+
+    <script type="text/javascript">
+
+        $(document).ready(function() {
+            $("#hide").click(function () {
+                $("p").hide('midium');
+            });
+        });
+
+        $(document).ready(function() {
+            $("#show").dblclick(function() {
+                $("p").show('slow');
+            });
+        });
+
+        $(document).ready(function() {
+            $("#toggle").click(function() {
+                $("p").toggle('slow');
+            });
+        });
+
+    </script>
+
+}
