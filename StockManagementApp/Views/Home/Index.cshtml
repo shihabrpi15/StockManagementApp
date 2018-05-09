@@ -7,12 +7,19 @@
 
 <div id="main-edit-box">
     <h2>Index</h2>
-    <button id="hide">Hide Me</button>
-    <button id="show">show me</button>
-    <button id="toggle">toggle</button>
+    <button id="fade-in">FadeIn</button>
+    <button id="fade-out">FadeOut</button>
+    <button id="fade-to">FadeTo</button>
+    <button id="fade-toggle">FadeToggle</button>
     <hr>
     <h4>Hi, this is a global hot rising pragraph in below</h4>
-    <p>My name is Anis Hossain Mulla Akhon then for nothin but is alocation. I am the best of like has important for every section and my name is the best capacity of holy day and my birtd day is seven oct 1992 and my village is Guabaria</p>
+    <p>My name is Anis Hossain Mulla Akhon then for nothin but is alocation. I am the best of
+        like has important for every section and my name is the best capacity of holy day and my
+        birtd day is seven oct 1992 and my village is Guabaria. My name is Anis Hossain Mulla Akhon then
+        for nothin but is alocation. I am the best of like has important for every section and my name is
+        the best capacity of holy day and my birtd day is seven oct 1992 and my village is Guabaria. My name is
+        Anis Hossain Mulla Akhon then for nothin but is alocation. I am the best of like has important for every 
+    section and my name is the best capacity of holy day and my birtd day is seven oct 1992 and my village is Guabaria</p>
     
 </div>
 
@@ -28,20 +35,26 @@
     <script type="text/javascript">
 
         $(document).ready(function() {
-            $("#hide").click(function () {
-                $("p").hide('midium');
+            $("#fade-in").click(function () {
+                $("p").fadeIn();
             });
         });
 
         $(document).ready(function() {
-            $("#show").dblclick(function() {
-                $("p").show('slow');
+            $("#fade-out").dblclick(function() {
+                $("p").fadeOut('slow');
+            });
+        });
+
+        $(document).ready(function () {
+            $("#fade-to").dblclick(function () {
+                $("p").fadeTo('1000',0.5);
             });
         });
 
         $(document).ready(function() {
-            $("#toggle").click(function() {
-                $("p").toggle('slow');
+            $("#fade-toggle").click(function() {
+                $("p").fadeToggle('slow');
             });
         });
 
